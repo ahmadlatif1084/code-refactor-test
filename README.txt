@@ -38,4 +38,20 @@ OR
 
 Thank you!
 
+I Select the code refactoring part.
+
+1) Syntax errors
+2) Unnecessary conditions used in code.
+3) Better code practises not followed.
+4) Code Quality can be improved a hell better. Whether i don't know the
+working of code. But will decrease code line and hierarchy code structure.
+
+How we can improve ?
+
+1) Better declaration of variables.
+2) Remove unnecessary variables.
+3) Use Ternary Operators.
+4) Use switch statement.
+5) Use Validator Requests.
+
 
